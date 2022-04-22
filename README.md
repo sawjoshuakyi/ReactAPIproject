@@ -1,3 +1,22 @@
+# Link to Github pages
+
+# This project uses Coincap API to look up live cryptocurrency data
+
+# At the time, only searching. However, we can expand to crypto research application, market movement and statistical analysis applications in the future.
+
+# The website layout is simple and user friendly. Just the top search bar section and data display section
+
+# We can add accessibility settings for users with such needs.
+
+# At this point in time, I ran out of time and my plates are full so I can only implement searching function for now. 
+# 1. I would implement table filer function in ascending and descending order.
+# 2. When searching a crypto, I would implement a function that shows the data in a graph and chart.
+# 3. I would also pull data on retail sentiment and suggest/present the sentiment data to the user.
+# 4. I would also include a section that shows latest news about the searched cryptocurrency.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
