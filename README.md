@@ -15,7 +15,9 @@ https://github.com/Kkatakuri24/ReactAPIproject
 # 4. I would also include a section that shows latest news about the searched cryptocurrency.
 
 
-
+# Instructions
+Pressing the search button with no input will pull all 100 crypto currencies data from API.
+Needs to enter correct coin name. Example, bitcoin, ethereum.., wrong input will crash the app.
 
 # Getting Started with Create React App
 
